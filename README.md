@@ -8,4 +8,4 @@
 
 ### 📌 Preview
 
-[<img src="./preview.png" width="450" />](./presentation.pdf?raw=true)
+[<img src="./preview.PNG" width="450" />](./presentation.pdf?raw=true)
